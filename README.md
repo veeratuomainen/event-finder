@@ -8,11 +8,12 @@ The application is available in both Finnish and English.
 ### Using the App
 
 You can register for the API for free at: https://developer-acct.ticketmaster.com/user/login
+
 By registering you can get your own API key and use this app. You need to insert you API key to the code.
 
 Install Android Studio and ensure you have an Android device or emulator to run the app. 
 
-Clone the repository and open the project in Android Studio. Syn the Gradle files (File > Sync Project with Gradle Files), build and run the app.
+Clone the repository and open the project in Android Studio. Sync the Gradle files (File > Sync Project with Gradle Files), build and run the app.
 
 ### Some Screenshots of the App:
 
