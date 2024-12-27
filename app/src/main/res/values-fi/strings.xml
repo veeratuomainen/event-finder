@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LoppuProjekti</string>
+    <string name="top_bar_text">Tapahtumahakija</string>
+    <string name="nav_label_home">Koti</string>
+    <string name="nav_label_search">Haku</string>
+    <string name="home_title">Tervetuloa tapahtumahakijaan!</string>
+    <string name="home_text">Tässä sovelluksessa voit löytää Tampereen tai muun valitsemasi kaupungin tapahtumia ja tallentaa ne puhelimesi kalenteriin!</string>
+    <string name="home_text_search">Avaa \'haku\' sivu ja löydä tapahtumia!</string>
+    <string name="home_text_search_2">Klikkaa kiinnostavia tapahtumia ja näät lisätietoja!</string>
+    <string name="home_city">Tämänhetkinen kaupunkisi on %1$s.</string>
+    <string name="home_enter_city">Syötä kaupunki:</string>
+    <string name="save_button_text">Tallenna</string>
+    <string name="search_title">20 tulevaa tapahtumaa kaupungissa %1$s:</string>
+    <string name="unknown">Tuntematon</string>
+    <string name="loading">Ladataan…</string>
+    <string name="not_found">Tapahtumaa ei löytynyt.</string>
+    <string name="add_to_calendar">Lisää tapahtuma kalenteriisi:</string>
+    <string name="add_button_text">Lisää</string>
+    <string name="detail_promoter">Järjestäjä: %1$s</string>
+    <string name="detail_category">Kategoria: %1$s</string>
+    <string name="detail_venue">Tapahtumapaikka: %1$s</string>
+    <string name="detail_date">Päivämäärä: %1$s</string>
+    <string name="detail_start_time">Aloitusajankohta: %1$s</string>
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="top_bar_text">Event Finder</string>
+    <string name="nav_label_home">Home</string>
+    <string name="nav_label_search">Search</string>
+    <string name="home_title">Welcome to Event Finder!</string>
+    <string name="home_text">In this app you can find upcoming events in Tampere or your chosen city and add interesting events to your calendar!</string>
+    <string name="home_text_search">Just go to the \'Search\' page and see 20 upcoming events!</string>
+    <string name="home_text_search_2">Click interesting events for more info!</string>
+    <string name="home_city">Your current city is %1$s.</string>
+    <string name="home_enter_city">Enter city:</string>
+    <string name="save_button_text">Save</string>
+    <string name="search_title">Next 20 events in %1$s:</string>
+    <string name="unknown">Unknown</string>
+    <string name="loading">Loading…</string>
+    <string name="not_found">Event not found.</string>
+    <string name="add_to_calendar">Add the event to your calendar:</string>
+    <string name="add_button_text">Add</string>
+    <string name="detail_promoter">Organizer: %1$s</string>
+    <string name="detail_category">Category: %1$s</string>
+    <string name="detail_venue">Venue: %1$s</string>
+    <string name="detail_date">Date: %1$s</string>
+    <string name="detail_start_time">Start time: %1$s</string>
+</resources>
