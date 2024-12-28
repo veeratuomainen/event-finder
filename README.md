@@ -24,3 +24,5 @@ Clone the repository and open the project in Android Studio. Sync the Gradle fil
 ![image](https://github.com/user-attachments/assets/9785f0bf-293f-47c1-9724-ae8eee5629c7)
 
 ![image](https://github.com/user-attachments/assets/1afbe3e6-03b5-4554-9830-195cd81b8bd4)
+
+Made in December 2024
